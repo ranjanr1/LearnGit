@@ -6,5 +6,5 @@
 3. Trunk branching
 
 ## Pull Requests
--Epectations
--Comments
+- Epectations
+- Comments
